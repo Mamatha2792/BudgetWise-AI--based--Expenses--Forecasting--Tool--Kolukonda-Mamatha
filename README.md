@@ -53,3 +53,25 @@ git clone https://github.com/Mamatha2792/BudgetWise-AI--based--Expenses--Forecas
 cd BudgetWise-AI--based--Expenses--Forecasting--Tool--Kolukonda-Mamatha
 
 
+3. Install dependencies:
+
+pip install -r requirements.txt
+
+4. Run the Streamlit app:
+
+streamlit run app.py
+
+License
+
+This project is licensed under the MIT License with Attribution.
+©2025 Kolukonda Mamatha
+
+
+---
+
+If you want, I can also make a **version with badges** (Python version, Streamlit version, XGBoost version, License) at the top to make your GitHub repo look very professional.  
+
+Do you want me to do that next?
+
+
+
