@@ -33,21 +33,22 @@ It transforms raw expense data into **smart insights, trends, and future predict
 
 BudgetWise/
 │
-├── app/ # Streamlit dashboard files
-│ └── budgetwise_app.py
+├── app/                      # Streamlit dashboard files
+│   └── budgetwise_app.py     # Main Streamlit application
 │
-├── models/ # Saved trained models (XGBoost, LSTM, etc.)
+├── models/                   # Saved trained models (XGBoost, LSTM, etc.)
 │
 ├── data/
-│ ├── raw/ # Input expense data (CSV)
-│ └── processed/ # Cleaned datasets
+│   ├── raw/                  # Input expense data (CSV)
+│   └── processed/            # Cleaned and transformed datasets
 │
-├── notebooks/ # Jupyter notebooks for training & experiments
+├── notebooks/                # Jupyter notebooks for training & experiments
 │
-├── scripts/ # Training or utility scripts
+├── scripts/                  # Model training or utility scripts
 │
-├── requirements.txt # Required Python libraries
-└── launch_app.py # Script to run the Streamlit app
+├── requirements.txt          # List of required Python libraries
+│
+└── launch_app.py             # Entry point to run the Streamlit app
 
 
 ---
