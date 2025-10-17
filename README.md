@@ -1,8 +1,11 @@
-# BudgetWise: AI-based Expense Forecasting Tool
+# 💰 AI-Based Expense Forecasting Tool
 
-## Overview
-BudgetWise is a simple AI tool that forecasts future monthly expenses using historical spending data and a basic linear regression model.
+This project uses Machine Learning (Linear Regression) to forecast future expenses based on past spending data.
 
-## How to run (locally)
-1. Clone repository:
+## 🧠 Features
+- Reads and cleans expense data
+- Trains a simple linear regression model
+- Predicts next few months’ expenses
+
+## 📁 Project Structure
 
