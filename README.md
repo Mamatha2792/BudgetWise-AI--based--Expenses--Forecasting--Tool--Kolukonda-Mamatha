@@ -71,11 +71,11 @@ Mac / Linux
 python3 -m venv myvenv
 source myvenv/bin/activate
 
-3️⃣ Install Dependencies
+3️⃣ **Install Dependencies**
 
 pip install -r requirements.txt
 
-4️⃣ Run the App
+4️⃣ **Run the App**
 
 python launch_app.py
 # or
@@ -92,14 +92,14 @@ Then open your browser → http://localhost:8502
 | 2025-10-05 | 800    | Utilities | Electricity bill  |
 
 
-📊 Output Dashboard
+📊** Output Dashboard**
 
 ✨ Forecast Graph – Shows next 7–30-day predictions
 ✨ Spending Trends – Compare current vs predicted
 ✨ Category Breakdown – Visual pie charts
 ✨ Model Comparison Table – MAE, RMSE, MAPE, R²
 
-🧩 How It Works
+🧩 **How It Works**
 
   1. Data Upload – Import expense data (CSV)
 
@@ -113,7 +113,7 @@ Then open your browser → http://localhost:8502
 
   6. Recommendation Engine – Suggests saving insights & alerts
 
-📈 Sample Results
+📈 **Sample Results**
 
 | Model   | MAE  | RMSE | MAPE | R²    |
 | ------- | ---- | ---- | ---- | ----- |
@@ -123,8 +123,8 @@ Then open your browser → http://localhost:8502
 
 (Values shown are sample results — actual accuracy depends on your data.)
 
-🚀 Future Enhancements
-
+🚀 **Future Enhancements
+**
 🧠Planned Features (v2.0)
   📱 Mobile App: React Native mobile application
   🔌 API Integration: RESTful API for external system integration
@@ -138,7 +138,7 @@ Then open your browser → http://localhost:8502
   🎯 Goal Tracking: Automated savings and budget goal monitoring
   🔍 Deeper Analytics: Merchant category analysis and recommendations
 
-🧑‍💻 Tech Stack
+🧑‍💻** Tech Stack**
 
 Languages & Libraries:
 Python, Streamlit, Pandas, NumPy, Matplotlib, XGBoost, Prophet, Scikit-learn
@@ -146,11 +146,11 @@ Python, Streamlit, Pandas, NumPy, Matplotlib, XGBoost, Prophet, Scikit-learn
 Tools:
 Jupyter Notebook, VS Code, Git, Virtual Environment
 
-❤️ Acknowledgements
+❤️** Acknowledgements**
 
 We thank our mentors and open-source contributors for their support.
 Inspired by the vision of empowering individuals with AI-driven financial awareness.
 
 
- 🫧"Smart saving starts with smart forecasting — BudgetWise helps you stay ahead."
-— Team BudgetWise🫧
+ 🫧**"Smart saving starts with smart forecasting — BudgetWise helps you stay ahead."
+— Team BudgetWise🫧**
