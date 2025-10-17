@@ -1,4 +1,4 @@
-# BudgetWise AI - Personal Expense Forecasting Tool
+🌺# BudgetWise AI - Personal Expense Forecasting Tool🌺 
 
 **Python:** 3.9+  
 **Streamlit:** 1.28+  
@@ -67,11 +67,7 @@ This project is licensed under the MIT License with Attribution.
 ©2025 Kolukonda Mamatha
 
 
----
 
-If you want, I can also make a **version with badges** (Python version, Streamlit version, XGBoost version, License) at the top to make your GitHub repo look very professional.  
-
-Do you want me to do that next?
 
 
 
