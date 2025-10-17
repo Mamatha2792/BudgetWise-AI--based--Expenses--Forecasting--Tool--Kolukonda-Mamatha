@@ -1,4 +1,5 @@
 # 💰 AI-Based Expense Forecasting Tool
+Python Streamlit XGBoost License Copyright
 
 This project uses Machine Learning (Linear Regression) to forecast future expenses based on past spending data.
 
