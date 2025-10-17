@@ -1,7 +1,10 @@
 # 💰 AI-Based Expense Forecasting Tool
+
 Python Streamlit XGBoost License Copyright
+
 This project uses Machine Learning (Linear Regression) to forecast future expenses based on past spending data.
 An advanced AI-powered personal expense forecasting system that leverages cutting-edge machine learning and deep learning techniques to predict future spending patterns with 99.9% accuracy (R² = 0.999). Features a comprehensive Streamlit web application with interactive dashboards, model comparisons, and AI-driven financial insights.
+
 **🌟 Key Highlights**
 🏆 Champion Model: XGBoost with 0.07% MAPE and R² = 0.999
 🎯 Exceptional Accuracy: 99.9% prediction accuracy achieved
@@ -11,33 +14,41 @@ An advanced AI-powered personal expense forecasting system that leverages cuttin
 📊 Interactive Dashboard: Production-ready Streamlit web application
 🔮 Smart Forecasting: 1-30 day expense predictions with confidence intervals
 💡 AI Insights: Automated pattern recognition and personalized recommendations
-✨ Features
-🎯 Core Capabilities
+
+**✨ Features******
+
+**🎯 Core Capabilities**
+
 Multi-Model Architecture: Combines baseline, ML, deep learning, and transformer models
 Advanced Forecasting: 1-30 day predictions with statistical confidence intervals
 Interactive Web App: Comprehensive Streamlit dashboard with real-time analytics
 AI-Powered Insights: Automated pattern recognition and financial recommendations
 Production Ready: Fully deployed system with comprehensive documentation
-📏 Enhanced Evaluation Framework
+
+**📏 Enhanced Evaluation Framework**
+
 5-Metric Analysis: MAE, RMSE, MAPE, R² Score, and Directional Accuracy
 Comprehensive Benchmarking: All 11 models ranked across multiple performance dimensions
 Natural Data Patterns: Removed artificial capping for authentic expense forecasting
 Trend Prediction: Directional accuracy measures up/down spending pattern prediction
 Statistical Rigor: R² coefficient shows model's explanatory power (0.999 = near perfect)
-🤖 Machine Learning Pipeline
+**🤖 Machine Learning Pipeline**
+
 Baseline Models: ARIMA, Prophet, Linear Regression
 ML Models: XGBoost (Champion), Random Forest, Decision Trees
 Deep Learning: LSTM, GRU, Bi-LSTM, CNN-1D architectures
 Transformer Models: N-BEATS neural basis expansion
 Advanced Preprocessing: Fuzzy string matching, 99.5% data quality
 Feature Engineering: 200+ derived features for enhanced predictions
-📊 Interactive Dashboard Features
+**📊 Interactive Dashboard Features**
+
 📈 Real-time Analytics: Live expense data visualization and trends
 🏆 Model Comparison: Performance benchmarking across all trained models
 🔮 Intelligent Forecasting: Multi-day predictions with uncertainty quantification
 💡 AI Insights Engine: Automated spending pattern analysis and recommendations
 📱 User-Friendly Interface: Intuitive design for both technical and non-technical users
-🛠️ Technology Stack
+**🛠️ Technology Stack**
+
 Core Framework: Python 3.9+ with NumPy, Pandas ecosystem
 Machine Learning: Scikit-learn, XGBoost, TensorFlow, Keras, PyTorch
 Time Series: Prophet, ARIMA, Statsmodels, PyTorch Forecasting
@@ -45,13 +56,16 @@ Web Framework: Streamlit with custom CSS and interactive components
 Visualization: Plotly, Seaborn, Matplotlib for dynamic charts
 Data Processing: Advanced fuzzy matching, feature engineering pipeline
 Deployment: Docker-ready, cloud deployment compatible
-🚀 Quick Start
+**🚀 Quick Start**
+
 Prerequisites
+
 Python 3.9 or higher
 8GB RAM minimum (for optimal performance)
 2GB free disk space
 Modern web browser (Chrome, Firefox, Safari, Edge)
 Installation & Launch
+
 Clone the repository:
 git clone https://github.com/moah0911/BudgetWise-AI-based-Expense-Forecasting-Tool.git
 cd BudgetWise-AI-based-Expense-Forecasting-Tool
