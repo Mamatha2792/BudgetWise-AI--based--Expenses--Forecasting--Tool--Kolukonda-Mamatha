@@ -43,7 +43,7 @@ It aims to make financial planning easy and data-driven for individuals and orga
 | ![Dashboard Screenshot](screenshots/dashboard.png) | ![Forecast Screenshot](screenshots/forecast.png) |
 
 
-📈** Output Example **
+📈 # Output Example
 
 Input: User uploads past 6 months’ expense CSV file.
 Output: Model predicts next 30 days’ expected spending and shows visual forecast charts.
