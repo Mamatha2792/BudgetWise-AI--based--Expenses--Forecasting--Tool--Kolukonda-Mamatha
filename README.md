@@ -30,10 +30,40 @@ It aims to make financial planning easy and data-driven for individuals and orga
 - **Model:** Linear Regression / ARIMA / LSTM (depending on your version)  
 
 ---
-
 ## 🚀 How to Run the Project
 1. Clone the repository  
    ```bash
    git clone https://github.com/YourGitHubUsername/BudgetWise-AI-based-Expense-Forecasting-Tool.git
    cd BudgetWise-AI-based-Expense-Forecasting-Tool
+📸** Screenshots
+**
+   
+| Dashboard View                                     | Forecast Result                                  |
+| -------------------------------------------------- | ------------------------------------------------ |
+| ![Dashboard Screenshot](screenshots/dashboard.png) | ![Forecast Screenshot](screenshots/forecast.png) |
+
+
+📈 **Output Example**
+
+Input: User uploads past 6 months’ expense CSV file.
+Output: Model predicts next 30 days’ expected spending and shows visual forecast charts.
+
+🧑‍💻 **Skills Used
+**
+
+Data Preprocessing
+
+Machine Learning
+
+Data Visualization
+
+Streamlit Web Development
+
+🏁# Future Enhancements
+
+Add income-expense ratio tracker
+
+Enable real-time updates via APIs
+
+Add login and user history tracking
 
