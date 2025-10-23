@@ -52,3 +52,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Wrapper function to predict expense
+def predict_expense(income, savings, expenses):
+    # Replace below with your actual model code from app.py
+    # Example placeholder logic:
+    result = income + savings - expenses
+    return result
+
